@@ -1,7 +1,7 @@
 <div align="center">
   <h1><strong>K-means Clustering Assignment Model</strong></h1>
   
-![Screenshot (205)](https://github.com/Roodaki/Kmeans-Clustering-Network-Model/assets/89901590/e5bd0cee-a95b-4d69-a26a-d9c61e84302d)
+![Screenshot (216)](https://github.com/Roodaki/Kmeans-Clustering-Assignment-Model/assets/89901590/b923a8b7-f707-41e2-a602-816651ba3711)
 </div>
 
 ## Table of Contents
@@ -12,7 +12,9 @@
   - [Usage Guide](#usage-guide)
 
 ## Introduction
-This project implements the K-means clustering algorithm using an Assignment Network Model with the NetworkX library. The assignment model efficiently assigns each data point to the nearest cluster based on their distance, and the centroids' values are updated iteratively using the mean of each cluster's assigned data points. To determine the optimal number of clusters, the project utilizes the Elbow Method, automating the process without requiring user input for K. The Elbow Method helps to identify the number of clusters that best captures the underlying patterns in the data. The program reads a CSV file containing the data points and plots the resulting clusters using matplotlib. With a focus on efficient clustering and iterative centroid updates, this project provides valuable insights and practical results across diverse domains and applications.
+This project implements the K-means clustering algorithm using an Assignment Model (within the context of Operations Research) with the NetworkX library. The assignment model efficiently assigns each data point to the nearest cluster based on their distance, and the centroids' values are updated iteratively using the mean of each cluster's assigned data points. To determine the optimal number of clusters, the project utilizes the Elbow Method, automating the process without requiring user input for K. The Elbow Method helps to identify the number of clusters that best captures the underlying patterns in the data. The program reads a CSV file containing the data points and plots the resulting clusters using matplotlib.
+
+![Screenshot (215)](https://github.com/Roodaki/Kmeans-Clustering-Assignment-Model/assets/89901590/409a214f-ac7c-4e5c-abbe-9fcacff7fedf)
 
 ## Project Structure
 The project follows a specific structure to organize its files and directories:
